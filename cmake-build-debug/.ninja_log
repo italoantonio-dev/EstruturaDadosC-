@@ -1,0 +1,11 @@
+# ninja log v7
+6	172	8085995563618944	CMakeFiles/EstruturaDados.dir/main.cpp.obj.ddi	57921995313f6b9
+172	203	8085995565273985	CMakeFiles/EstruturaDados.dir/CXX.dd	b3c088ba8c4df47b
+172	203	8085995565273985	CMakeFiles/EstruturaDados.dir/CXXModules.json	b3c088ba8c4df47b
+172	203	8085995565273985	CMakeFiles/EstruturaDados.dir/main.cpp.obj.modmap	b3c088ba8c4df47b
+203	694	8085995565589138	CMakeFiles/EstruturaDados.dir/main.cpp.obj	65b1758cc534791
+696	831	8085995570520364	EstruturaDados.exe	c15c302f9365fa94
+3	205	8086008513016947	build.ninja	bdd8dea222f61054
+3	205	8086008512966913	C:/Projetos/EstruturaDados/cmake-build-debug/cmake_install.cmake	bdd8dea222f61054
+2	472	8086008575880680	CMakeFiles/ambiguous_dates.dir/ambiguous_dates.cpp.obj	387255cf66737972
+481	626	8086008580663671	ambiguous_dates.exe	3fc04ca0b6680821
