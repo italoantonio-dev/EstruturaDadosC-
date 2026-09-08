@@ -1,13 +1,20 @@
-cmake_minimum_required(VERSION 3.20)
-project(DataStructures_List1)
+cmake_minimum_required(VERSION 4.2)
+project(ed1_algorithms_list03_cpp)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
-# Cria um executável independente para cada arquivo .cpp
-add_executable(two_sum two_sum.cpp)
-add_executable(remove_duplicates remove_duplicates.cpp)
-add_executable(reverse_string reverse_string.cpp)
-add_executable(move_zeroes move_zeroes.cpp)
-add_executable(majority_element majority_element.cpp)
-add_executable(counting_song counting_song.cpp)
-add_executable(ambiguous_dates ambiguous_dates.cpp)
+#add_executable(ed1_algorithms_list03_cpp main.cpp
+#        src/Exer01_SortedArrayInsert.cpp
+#        src/Exer02_RemoveElementInPlace.cpp
+#        src/Exer03_MergeSortedArrays.cpp
+#        src/Exer04_PivotArrayPartition.cpp
+#)
+
+# Executáveis individuais para cada exercício
+add_executable(Exer01_SortedArrayInsert src/Exer01_SortedArrayInsert.cpp)
+add_executable(Exer02_RemoveElementInPlace src/Exer02_RemoveElementInPlace.cpp)
+add_executable(Exer03_MergeSortedArrays src/Exer03_MergeSortedArrays.cpp)
+add_executable(Exer04_PivotArrayPartition src/Exer04_PivotArrayPartition.cpp)
+
+# Se ainda mantiver um main.cpp na raiz, declare-o aqui:
+add_executable(main_app main.cpp)
