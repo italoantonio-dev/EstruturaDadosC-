@@ -1,5 +1,13 @@
 # ED1 — Static Lists — List 03
 
+## Linked-list activities
+
+The linked-list activities are maintained in independent repositories:
+
+- [Lista 06 — `ed1-linked-list-cpp`](https://github.com/italoantonio-dev/ed1-linked-list-cpp)
+- [Lista 07 — `ed1-linked-list-list07-cpp`](https://github.com/italoantonio-dev/ed1-linked-list-list07-cpp)
+- [Lista 08 — `ed1-linked-list-list08-cpp`](https://github.com/italoantonio-dev/ed1-linked-list-list08-cpp)
+
 Practice exercises for **Data Structures I** — Static (sequential) list operations: sorted insertion, removal, merging, and partitioning.
 
 > Instituto Federal do Triângulo Mineiro — Campus Patrocínio
